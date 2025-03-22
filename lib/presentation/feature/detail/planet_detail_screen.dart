@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:planetas/data/models/planet_model.dart';
+import 'package:planetas/presentation/atom/planet_image.dart';
 import 'package:planetas/presentation/organism/gradient_background_organism.dart';
 import 'package:planetas/presentation/providers/favorites_provider.dart';
 
@@ -43,7 +44,7 @@ class PlanetDetailScreen extends ConsumerWidget {
               SizedBox(
                 height: MediaQuery.of(context).size.height * 0.4,
                 width: double.infinity,
-                child: Image.network(planet.image, fit: BoxFit.cover),
+                child: PlanetImage(imageUrl: planet.image),
               ),
               SizedBox(
                 height: MediaQuery.of(context).size.height * 0.6,
