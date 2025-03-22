@@ -66,9 +66,10 @@ Siguiendo la metodología de Diseño Atómico, los componentes visuales están o
 
 ## 📱 Capturas de Pantalla
 
-![Simulator Screenshot - iPhone 16 - 2025-03-21 at 20 25 21](https://github.com/user-attachments/assets/9d8a9d35-ddfe-4503-b1be-c8236ff5a7cb)
-![Simulator Screenshot - iPhone 16 - 2025-03-21 at 20 25 04](https://github.com/user-attachments/assets/7d7f5af8-af37-4111-a9d4-58ca903bc08e)
 ![Simulator Screenshot - iPhone 16 - 2025-03-21 at 20 24 54](https://github.com/user-attachments/assets/4227da45-e6eb-45bd-bc20-b38c7f94b34d)
+![Simulator Screenshot - iPhone 16 - 2025-03-21 at 20 25 04](https://github.com/user-attachments/assets/7d7f5af8-af37-4111-a9d4-58ca903bc08e)
+![Captura de pantalla 2025-03-22 a la(s) 9 57 59 a  m](https://github.com/user-attachments/assets/24fc87d5-b4d8-4e3f-a298-c91fa9cdabe5)
+![Simulator Screenshot - iPhone 16 - 2025-03-21 at 20 25 21](https://github.com/user-attachments/assets/9d8a9d35-ddfe-4503-b1be-c8236ff5a7cb)
 
 ## 🔮 Mejoras Futuras
 
